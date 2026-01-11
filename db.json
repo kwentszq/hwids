@@ -1,10 +1,12 @@
 {
 nick:"",
+hwid:"",
 uid:"",
 role:"".
 },
 {
 nick:"",
+hwid:"",
 uid:"",
 role:"".
 }
