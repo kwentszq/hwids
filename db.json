@@ -1,12 +1,20 @@
-{
-nick:"kwentS",
-hwid:"a809ce3739fdb5c6440c9a5c2bbaf702",
-uid:"0",
-role:"Dev".
-},
-{
-nick:"",
-hwid:"",
-uid:"",
-role:"".
-}
+[
+  {
+    "nick": "kwentS",
+    "hwid": "a809ce3739fdb5c6440c9a5c2bbaf702",
+    "uid": "1",
+    "role": "Dev"
+  },
+  {
+    "nick": "TestUser",
+    "hwid": "b91e77a4c2d94e5a8f123c6d9e4bfa11",
+    "uid": "2",
+    "role": "Tester"
+  },
+  {
+    "nick": "Player984",
+    "hwid": "c0a21f8e4b6d9a123e5f7c8d9b0a4f11",
+    "uid": "3",
+    "role": "User"
+  }
+]
